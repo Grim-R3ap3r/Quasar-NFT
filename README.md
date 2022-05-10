@@ -5,8 +5,7 @@ This Project is a fork of Ethereum Boilerplate and demostrates how you can build
 ![s2](https://user-images.githubusercontent.com/62543734/167544497-658bd04d-3b99-42ae-a0c7-83e9a8566d17.png)
 
 
-# ⭐️ `Star us`
-If this boilerplate helps you build Ethereum dapps faster - please star this project, every star makes us very happy!
+
 
 # 🚀 Quick Start
 
