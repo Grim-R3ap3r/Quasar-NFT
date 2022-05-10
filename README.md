@@ -12,7 +12,7 @@ If this boilerplate helps you build Ethereum dapps faster - please star this pro
 
 📄 Clone or fork `ethereum-nft-marketplace`:
 ```sh
-git clone https://github.com/ethereum-boilerplate/ethereum-nft-marketplace-boilerplate.git
+git clone https://github.com/Grim-R3ap3r/Quasar-NFT-MarketPlace.git
 ```
 💿 Install all dependencies:
 ```
