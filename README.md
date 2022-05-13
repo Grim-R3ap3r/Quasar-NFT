@@ -1,6 +1,9 @@
 # `Quasar-NFT-Marketplace`
 
 This Project is a fork of Ethereum Boilerplate and demostrates how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
+<br/>
+<br/>
+[Link to Quasar](https://quazar.netlify.app/)
 
 ![s2](https://user-images.githubusercontent.com/62543734/167544497-658bd04d-3b99-42ae-a0c7-83e9a8566d17.png)
 
