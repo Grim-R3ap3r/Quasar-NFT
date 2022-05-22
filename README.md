@@ -1,4 +1,4 @@
-# `Quasar-NFT-Marketplace`
+# `Quasar-NFT-Marketplace` [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
 
 This Project is a fork of Ethereum Boilerplate and demostrates how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.
 <br/>
